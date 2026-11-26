@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si usas este material en un trabajo académico, cita este repositorio."
+type: software
+title: "TerraMind: espacio latente en Mosquera y generación multimodal en Armero"
+authors:
+  - family-names: Yela Portocarrero
+    given-names: Washington Noriel
+    affiliation: "Universidad Distrital Francisco José de Caldas"
+year: 2026
+url: "https://github.com/norielyela13-collab/terramind-mosquera-armero"
+license: MIT
+keywords:
+  - TerraMind
+  - observación de la Tierra
+  - espacio latente
+  - NDVI
+  - generación multimodal
+  - Mosquera
+  - Armero
+  - inteligencia artificial

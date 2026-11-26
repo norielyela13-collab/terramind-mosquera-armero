@@ -1,0 +1,31 @@
+# Python 3.10+ · probado en Colab con GPU T4
+
+# Ejercicio 1 · Mosquera (espacio latente)
+numpy
+pandas
+matplotlib
+folium
+scikit-learn
+scipy
+shapely
+geopandas
+torch
+transformers==4.45.2
+tokenizers==0.20.1
+datasets
+
+# Ejercicio 2 · Armero (generación multimodal)
+terratorch>=1.2.5
+diffusers==0.30.0
+huggingface_hub
+webdataset
+fsspec
+braceexpand
+zarr==2.18.0
+numcodecs==0.15.1
+pystac-client
+planetary-computer
+stackstac
+rioxarray
+rasterio
+reportlab
